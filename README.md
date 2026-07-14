@@ -84,30 +84,8 @@ I'm a Computer Science student and Full Stack Engineer
 
 ---
 
-### 🚀 Pinned Projects
 
-<div align="center">
 
-<a href="https://github.com/KARRI-DURGA-SIVA?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KARRI-DURGA-SIVA&repo=Job-Portal&theme=tokyonight&title_color=1E90FF&icon_color=0575E6&border_color=1E90FF&bg_color=0D1117" width="45%" />
-</a>
-<a href="https://github.com/KARRI-DURGA-SIVA?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KARRI-DURGA-SIVA&repo=Digital-Will&theme=tokyonight&title_color=1E90FF&icon_color=0575E6&border_color=1E90FF&bg_color=0D1117" width="45%" />
-</a>
-
-<a href="https://github.com/KARRI-DURGA-SIVA?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KARRI-DURGA-SIVA&repo=AI-Money-Mentor&theme=tokyonight&title_color=1E90FF&icon_color=0575E6&border_color=1E90FF&bg_color=0D1117" width="45%" />
-</a>
-
-</div>
-
->   Rename `Job-Portal`, `Digital-Will`, `AI-Money-Mentor` above to match your exact repo names/casing (or pin these 3 repos manually via **Customize your pins** on your profile — that's the most reliable way, same as Eddie's profile does it).
-
-**Job Portal** — Spring Boot, Spring Security, React, PostgreSQL — full-stack job portal with JWT & Firebase Google Sign-in, Cloudflare-secured.
-
-**Digital-Will** — AWS, Node.js, React, TypeScript, Firebase — secure digital asset vault with AES-256 encryption and automated nominee transfer.
-
-**AI Money Mentor** — Node.js, React, TypeScript, Firebase — AI chatbot for personalized financial insights with WhatsApp & OTP-based auth.
 
 ---
 
@@ -124,11 +102,7 @@ I'm a Computer Science student and Full Stack Engineer
 
 ---
 
-###  Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KARRI-DURGA-SIVA&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15&title=Commits,PullRequest,Repositories,Followers,Stars,Issue,Contribution" />
-</div>
 
 ---
 
@@ -140,11 +114,7 @@ I'm a Computer Science student and Full Stack Engineer
 
 ---
 
-### Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/KARRI-DURGA-SIVA/KARRI-DURGA-SIVA/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake animation — activate via the GitHub Action described below"/>
-</div>
 
 ---
 
