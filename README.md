@@ -93,7 +93,7 @@ I'm a Computer Science student and Full Stack Engineer
 <img src="https://github-readme-stats.vercel.app/api?username=KARRI-DURGA-SIVA&show_icons=true&theme=tokyonight&hide_border=true&title_color=1E90FF&icon_color=0575E6&text_color=c9d1d9&bg_color=0D1117&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARRI-DURGA-SIVA&layout=compact&theme=tokyonight&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0D1117" width="35%" />
 
-
+<img src="https://streak-stats.demolab.com?user=KARRI-DURGA-SIVA&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=0575E6&currStreakLabel=1E90FF" width="70%" />
 
 </div>
 ---
