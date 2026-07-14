@@ -40,7 +40,7 @@ I'm a Computer Science student and Full Stack Engineer
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -82,7 +82,7 @@ I'm a Computer Science student and Full Stack Engineer
 
 </div>
 
-
+---
 
 
 
@@ -98,7 +98,7 @@ I'm a Computer Science student and Full Stack Engineer
 <img src="https://streak-stats.demolab.com?user=KARRI-DURGA-SIVA&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=0575E6&currStreakLabel=1E90FF" width="70%" />
 
 </div>
-
+---
 
 
 
