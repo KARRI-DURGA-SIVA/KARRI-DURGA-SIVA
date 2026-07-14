@@ -84,10 +84,6 @@ I'm a Computer Science student and Full Stack Engineer
 
 ---
 
-
-
-
-
 ### GitHub Stats
 
 <div align="center">
