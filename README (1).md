@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="Karri Durga Siva - Design. Develop. Deliver." width="100%"/>
+<img src="https://drive.google.com/file/d/1r4sVLx20Q-AaNpQrLw5O6CWdlQVOQ-H_/view?usp=drive_link" alt="Karri Durga Siva - Design. Develop. Deliver." width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Karri+Durga+Siva;Full+Stack+%26+AI+Engineer;Design+.+Develop+.+Deliver+." alt="Typing SVG" />
