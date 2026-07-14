@@ -101,7 +101,7 @@ I'm a Computer Science student and Full Stack Engineer
 
 </div>
 
-> 💡 Rename `Job-Portal`, `Digital-Will`, `AI-Money-Mentor` above to match your exact repo names/casing (or pin these 3 repos manually via **Customize your pins** on your profile — that's the most reliable way, same as Eddie's profile does it).
+>   Rename `Job-Portal`, `Digital-Will`, `AI-Money-Mentor` above to match your exact repo names/casing (or pin these 3 repos manually via **Customize your pins** on your profile — that's the most reliable way, same as Eddie's profile does it).
 
 **Job Portal** — Spring Boot, Spring Security, React, PostgreSQL — full-stack job portal with JWT & Firebase Google Sign-in, Cloudflare-secured.
 
@@ -111,7 +111,7 @@ I'm a Computer Science student and Full Stack Engineer
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -124,7 +124,7 @@ I'm a Computer Science student and Full Stack Engineer
 
 ---
 
-### 🏆 Trophies
+###  Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=KARRI-DURGA-SIVA&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15&title=Commits,PullRequest,Repositories,Followers,Stars,Issue,Contribution" />
@@ -132,7 +132,7 @@ I'm a Computer Science student and Full Stack Engineer
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KARRI-DURGA-SIVA&theme=react-dark&bg_color=0D1117&color=1E90FF&line=0575E6&point=ffffff&area=true&hide_border=true" width="95%"/>
@@ -140,7 +140,7 @@ I'm a Computer Science student and Full Stack Engineer
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/KARRI-DURGA-SIVA/KARRI-DURGA-SIVA/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake animation — activate via the GitHub Action described below"/>
@@ -148,12 +148,4 @@ I'm a Computer Science student and Full Stack Engineer
 
 ---
 
-### 🤝 Connect With Me
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-0575E6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgasivayyakarri@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-021B79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KARRI-DURGA-SIVA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karri-durga-siva)
-
-</div>
