@@ -14,16 +14,16 @@
 
 ---
 
-I'm a Computer Science student and Full Stack AI Engineer who loves turning ideas into working products end-to-end — from database design to a polished UI. Join me as I **design, develop, and deliver** 🚀
+I'm a Computer Science student and Full Stack Engineer 
 
-- 🎓 B.Tech CSE @ Sri Vasavi Engineering College (2024 - 2027)
-- 💼 Full Stack AI Engineer Intern @ Saketh Tech Private Limited
-- 🌱 Currently building with **Spring Boot, Node.js, React & Flutter**
-- ☁️ Comfortable across **AWS, Google Cloud, Firebase & Cloudflare**
-- 🏆 Salesforce Certified Agentforce Specialist
-- 🧩 500+ problems solved across LeetCode, GeeksforGeeks & more
-- ⚡ Semi-Finalist, ET GenAI Hackathon (54,200+ teams) · 🥈 2nd Prize Hackathon Winner
-- 📫 **durgasivayyakarri@gmail.com**
+-  B.Tech CSE @ Sri Vasavi Engineering College (2024 - 2027)
+-  Full Stack AI Engineer Intern @ Saketh Tech Private Limited
+-  Currently building with **Spring Boot, Node.js, React & Flutter**
+-  Comfortable across **AWS, Google Cloud, Firebase & Cloudflare**
+-  Salesforce Certified Agentforce Specialist
+-  500+ problems solved across LeetCode, GeeksforGeeks & more
+-  Semi-Finalist, ET GenAI Hackathon (54,200+ teams) · 🥈 2nd Prize Hackathon Winner
+-  **durgasivayyakarri@gmail.com**
 
 <div align="center">
 
