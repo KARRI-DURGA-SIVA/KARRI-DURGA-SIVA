@@ -82,12 +82,11 @@ I'm a Computer Science student and Full Stack Engineer
 
 </div>
 
----
 
 
 
 
----
+
 
 ### GitHub Stats
 
@@ -100,11 +99,11 @@ I'm a Computer Science student and Full Stack Engineer
 
 </div>
 
----
 
 
 
----
+
+
 
 ### Contribution Graph
 
