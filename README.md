@@ -3,7 +3,7 @@
 <img src="WhatsApp Image 2026-07-10 at 01.50.05.jpeg" alt="Karri Durga Siva - Design. Develop. Deliver." width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Karri+Durga+Siva;Full+Stack+%26+AI+Engineer;Design+.+Develop+.+Deliver+." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Karri+Durga+Siva;Full+Stack+Engineer;" alt="Typing SVG" />
 </a>
 
 [![GitHub followers](https://img.shields.io/github/followers/KARRI-DURGA-SIVA?label=Follow&style=social)](https://github.com/KARRI-DURGA-SIVA)
