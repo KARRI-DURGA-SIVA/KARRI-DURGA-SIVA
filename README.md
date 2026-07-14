@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 I'm a Computer Science student and Full Stack Engineer 
 
@@ -82,7 +82,9 @@ I'm a Computer Science student and Full Stack Engineer
 
 </div>
 
+
 ---
+
 
 ### GitHub Stats
 
@@ -107,10 +109,10 @@ I'm a Computer Science student and Full Stack Engineer
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KARRI-DURGA-SIVA&theme=react-dark&bg_color=0D1117&color=1E90FF&line=0575E6&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
----
 
 
 
----
+
+
 
 
