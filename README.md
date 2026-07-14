@@ -82,7 +82,7 @@ I'm a Computer Science student and Full Stack Engineer
 
 </div>
 
-
+---
 
 
 
@@ -97,7 +97,7 @@ I'm a Computer Science student and Full Stack Engineer
 </div>
 
 
-
+---
 
 
 
