@@ -23,7 +23,7 @@ I'm a Computer Science student and Full Stack Engineer
 -  Salesforce Certified Agentforce Specialist
 -  500+ problems solved across LeetCode, GeeksforGeeks & more
 -  Semi-Finalist, ET GenAI Hackathon (54,200+ teams) · 🥈 2nd Prize Hackathon Winner
--  **durgasivayyakarri@gmail.com**
+
 
 <div align="center">
 
