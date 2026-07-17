@@ -4,7 +4,7 @@
 
 <br>
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Hi+👋,+I'm+Karri+Durga+Siva;Full+Stack+Engineer+%7C+AI+Developer;Spring+Boot+%7C+React+%7C+Flutter" alt="Typing SVG" />
 
 <br>
 
@@ -122,15 +122,7 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 ---
 
-<div align="center">
 
-![Commits](https://img.shields.io/badge/Commits-500+-blue?style=for-the-badge&logo=git)
-![Pull%20Requests](https://img.shields.io/badge/Pull%20Requests-Active-brightgreen?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/badge/Issues-Contributed-orange?style=for-the-badge&logo=github)
-![Repositories](https://img.shields.io/badge/Repositories-View-black?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars-GitHub-yellow?style=for-the-badge&logo=github)
-
-</div>
 
 
 
