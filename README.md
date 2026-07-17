@@ -106,9 +106,7 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KARRI-DURGA-SIVA&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARRI-DURGA-SIVA&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
