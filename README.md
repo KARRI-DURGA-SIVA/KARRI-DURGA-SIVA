@@ -106,10 +106,6 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 <div align="center">
 
-
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=KARRI-DURGA-SIVA&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=0575E6&currStreakLabel=1E90FF" width="80%"/>
 
 </div>
