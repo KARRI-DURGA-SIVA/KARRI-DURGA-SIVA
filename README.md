@@ -37,14 +37,14 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JAVA-1E90FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-0575E6?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-021B79?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-1E90FF?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPRING%20BOOT-0575E6?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/NODE.JS-021B79?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/FLUTTER-1E90FF?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-0575E6?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
