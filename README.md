@@ -2,7 +2,7 @@
 
 <img src="WhatsApp Image 2026-07-10 at 01.50.05.jpeg" alt="Karri Durga Siva - Design. Develop. Deliver." width="100%"/>
 
-<br>
+<br></br>
 
 <div align="center">
 
