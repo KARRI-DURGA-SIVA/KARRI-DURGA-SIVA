@@ -119,26 +119,5 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 </div>
 
----
 
-# 🌐 Connect With Me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KARRI-DURGA-SIVA)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Design • Develop • Deploy • Repeat 🚀**
-
-</div>
