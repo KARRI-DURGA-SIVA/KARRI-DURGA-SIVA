@@ -4,9 +4,7 @@
 
 <br>
 
-<a href="">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Hi+👋,+I'm+Karri+Durga+Siva;Full+Stack+Engineer+%7C+AI+Developer;Spring+Boot+%7C+React+%7C+Flutter" />
-</a>
+
 
 <br>
 
