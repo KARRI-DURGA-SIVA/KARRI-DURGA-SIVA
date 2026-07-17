@@ -10,9 +10,8 @@
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/KARRI-DURGA-SIVA?label=Follow&style=social)](https://github.com/KARRI-DURGA-SIVA)
-[![Profile Views](https://komarev.com/ghpvc/?username=KARRI-DURGA-SIVA&color=1E90FF&style=flat-square&label=Profile+Views)](https://github.com/KARRI-DURGA-SIVA)
-[![Repositories](https://img.shields.io/badge/dynamic/json?color=1E90FF&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKARRI-DURGA-SIVA&style=flat-square)](https://github.com/KARRI-DURGA-SIVA?tab=repositories)
+
+
 
 </div>
 
