@@ -122,6 +122,11 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KARRI-DURGA-SIVA/KARRI-DURGA-SIVA/main/github-metrics.svg" width="95%" />
+
+</div>
 
 
 
