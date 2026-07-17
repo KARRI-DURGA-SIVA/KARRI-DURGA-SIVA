@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&lines=Hi%2C+I'm+Karri+Durga+Siva;Full+Stack+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&lines=Hi%2C+I'm+Karri+Durga+Siva;Full+Stack+Developer" alt="Typing SVG" />
 
 </div>
 
