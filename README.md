@@ -123,5 +123,17 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 </div>
 
+---
+
+<div align="center">
+
+![Commits](https://img.shields.io/badge/Commits-500+-blue?style=for-the-badge&logo=git)
+![Pull%20Requests](https://img.shields.io/badge/Pull%20Requests-Active-brightgreen?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/badge/Issues-Contributed-orange?style=for-the-badge&logo=github)
+![Repositories](https://img.shields.io/badge/Repositories-View-black?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-GitHub-yellow?style=for-the-badge&logo=github)
+
+</div>
+
 
 
