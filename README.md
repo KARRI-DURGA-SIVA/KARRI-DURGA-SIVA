@@ -101,6 +101,7 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 ---
 
+# Coding Profiles
 
 
 <table>
@@ -132,7 +133,7 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 ## GeeksforGeeks
 
-<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+<a href="https://auth.geeksforgeeks.org/user/durgasivay4pi?tab=activity/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
