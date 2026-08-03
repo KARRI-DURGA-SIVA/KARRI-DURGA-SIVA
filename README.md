@@ -102,7 +102,7 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Karri Durga Siva?theme=dark&font=Poppins&ext=heatmap" width="80%"/>
+<img src="https://leetcard.jacoblin.cool/Durgasivayya?theme=dark&font=Poppins&ext=heatmap" width="80%"/>
 
 </div>
 
