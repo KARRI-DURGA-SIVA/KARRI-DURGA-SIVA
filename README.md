@@ -98,26 +98,25 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 </div>
 
 
----
 
 ---
 
-# 🏆 Coding Profiles
+
 
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ## LeetCode
 
-<a href="https://leetcode.com/u//">
+<a href="https://leetcode.com/u/Durgasivayya/">
 <img src="https://leetcard.jacoblin.cool/Durgasivayya?theme=dark&font=Poppins&ext=heatmap" width="100%"/>
 </a>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ## Codolio
 
@@ -127,14 +126,22 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 <br><br>
 
+</td>
 
+<td align="center" width="33%">
+
+## GeeksforGeeks
+
+<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<br><br>
 
 </td>
 
 </tr>
 </table>
-
----
 
 
 
