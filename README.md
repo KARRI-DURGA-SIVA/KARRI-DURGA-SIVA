@@ -97,6 +97,17 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 </div>
 
+
+---
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/KARRI-DURGA-SIVA?theme=dark&font=Poppins&ext=heatmap" width="80%"/>
+
+</div>
+
+
+
 ---
 
 #   GitHub Statistics
