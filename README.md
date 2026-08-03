@@ -97,6 +97,39 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 </div>
 
+---
+
+
+## 🏆 Coding Profiles
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### LeetCode
+
+<img src="https://leetcard.jacoblin.cool/Durgasivayya?theme=dark&font=Poppins" width="100%"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### Codolio
+
+<a href="https://codolio.com/profile/DURGA%20SIVA">
+<img src="https://img.shields.io/badge/Codolio-View_Profile-1E90FF?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<a href="https://codolio.com/profile/DURGA%20SIVA">
+View My Codolio Profile
+</a>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
