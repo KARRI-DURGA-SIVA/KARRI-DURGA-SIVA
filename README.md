@@ -112,7 +112,7 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 ## LeetCode
 
 <a href="https://leetcode.com/u//">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=heatmap" width="100%"/>
+<img src="https://leetcard.jacoblin.cool/Durgasivayya?theme=dark&font=Poppins&ext=heatmap" width="100%"/>
 </a>
 
 </td>
@@ -121,15 +121,13 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 ## Codolio
 
-<a href="https://codolio.com/profile/YOUR_CODOLIO_USERNAME">
+<a href="https://codolio.com/profile/DURGA%20SIVA">
 <img src="https://img.shields.io/badge/Codolio-View_Profile-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://codolio.com/profile/YOUR_CODOLIO_USERNAME">
-<img src="https://img.shields.io/badge/Open-Codolio_Portfolio-00C853?style=for-the-badge"/>
-</a>
+
 
 </td>
 
