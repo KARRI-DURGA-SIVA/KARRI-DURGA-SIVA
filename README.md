@@ -97,47 +97,46 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 </div>
 
+
 ---
 
+---
 
-## 🏆 Coding Profiles
+# 🏆 Coding Profiles
 
 <table>
 <tr>
+
 <td align="center" width="50%">
 
-### LeetCode
+## LeetCode
 
-<img src="https://leetcard.jacoblin.cool/Durgasivayya?theme=dark&font=Poppins" width="100%"/>
+<a href="https://leetcode.com/u//">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=heatmap" width="100%"/>
+</a>
 
 </td>
 
 <td align="center" width="50%">
 
-### Codolio
+## Codolio
 
-<a href="https://codolio.com/profile/DURGA%20SIVA">
-<img src="https://img.shields.io/badge/Codolio-View_Profile-1E90FF?style=for-the-badge" />
+<a href="https://codolio.com/profile/YOUR_CODOLIO_USERNAME">
+<img src="https://img.shields.io/badge/Codolio-View_Profile-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://codolio.com/profile/DURGA%20SIVA">
-View My Codolio Profile
+<a href="https://codolio.com/profile/YOUR_CODOLIO_USERNAME">
+<img src="https://img.shields.io/badge/Open-Codolio_Portfolio-00C853?style=for-the-badge"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
-
 ---
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Durgasivayya?theme=dark&font=Poppins&ext=heatmap" width="80%"/>
-
-</div>
 
 
 
