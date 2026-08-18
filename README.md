@@ -30,7 +30,7 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 -    Building applications using **Spring Boot, React, Node.js & Flutter**
 -    Experienced with **AWS, Google Cloud, Firebase & Cloudflare**
 -    Salesforce Certified Agentforce Specialist
--    Solved **500+ Coding Problems**
+-    Solved **650+ Coding Problems**
 -    ET GenAI Hackathon Semi-Finalist *(54,200+ Teams)*
 -    2nd Prize Hackathon Winner
 
