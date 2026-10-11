@@ -145,15 +145,7 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 
 
----
 
-#   GitHub Statistics
-
-
-
----
-
-#   Contribution Graph
 
 <div align="center">
 
