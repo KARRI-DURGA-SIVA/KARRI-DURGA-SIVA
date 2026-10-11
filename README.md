@@ -147,13 +147,8 @@ I'm a **Computer Science Student** and **Full Stack Engineer** passionate about 
 
 
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARRI-DURGA-SIVA&theme=react-dark&bg_color=0D1117&color=1E90FF&line=0575E6&point=ffffff&area=true&hide_border=true" width="95%"/>
 
-</div>
-
----
 
 
 
